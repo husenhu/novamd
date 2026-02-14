@@ -3,6 +3,7 @@
 **NovaMD** is a state-of-the-art, AI-powered Markdown Studio designed for modern writers, developers, and thinkers. It combines a minimalist editing experience with the power of Google's Gemini AI to transform your writing workflow.
 
 [![Watch the Tutorial](https://img.youtube.com/vi/xruhX_qzwLw/0.jpg)](https://www.youtube.com/watch?v=xruhX_qzwLw)
+
 *Click the image above to watch the NovaMD tutorial video.*
 
 ## ✨ Key Features
