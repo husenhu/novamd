@@ -1,0 +1,8 @@
+{
+  "name": "NovaMD - AI-Powered Markdown Studio",
+  "description": "A high-performance Markdown editor with local file support, real-time preview, and Gemini-powered AI writing assistance. Create, manage, and refine your documents seamlessly on any device.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
